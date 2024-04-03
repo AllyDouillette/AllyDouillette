@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rebecca</h1>
 <h3 align="center">A full-stack developer from Germany</h3>
 
-- 🔭 I’m currently working on [https://www.apprendio.online](apprendio.online)
+- 🔭 I’m currently working on [apprendio.online](https://www.apprendio.online)
 
 - 🌱 I’m currently learning **python 🐍 / data analytic deep-dives 📊📈 / and a bit of AI basics**
 
